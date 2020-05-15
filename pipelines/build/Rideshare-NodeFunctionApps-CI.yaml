@@ -1,5 +1,5 @@
-# resources:
-# - repo: self
+resources:
+- repo: self
 # queue:
 #   name: Hosted Linux Preview
 #   demands: npm
